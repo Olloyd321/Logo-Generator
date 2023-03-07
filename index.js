@@ -1,1 +1,1 @@
-console.log("welcome")
+console.log("welcome to the SVG Logo Generator");
