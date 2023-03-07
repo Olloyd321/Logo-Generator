@@ -4,5 +4,6 @@ const generateUserPrompts = require('./lib/user.prompts');
 
 
 function init(){
-
+    inquirer.prompt(generateUserPrompts);
 };
+
