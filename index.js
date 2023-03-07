@@ -1,9 +1,8 @@
 const inquirer = require('inquirer'); // inquirer package 
 const fs = require('fs'); // file system package
+const generateUserPrompts = require('./lib/user.prompts');
 
-console.log("welcome to the SVG Logo Generator");
+
 function init(){
-    inquirer.prompt(user.prompts.js).then(() => {
-        
-    });
+
 };
