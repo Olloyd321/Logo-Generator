@@ -40,7 +40,7 @@ function init() {
         `
     }).then(data => {
         console.log(data);
-        fs.writeFileSync("logo.svg", data)
+        fs.writeFileSync("Generated logo.svg", data)
     })
 };
 

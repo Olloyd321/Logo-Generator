@@ -3,7 +3,7 @@
 
 ## Description 
 
-This project was created to assist a user in creating a custom logo.
+This project was created to assist a user in creating a generic logo for any starter project.
 
 ## Table of Contents
 
@@ -24,10 +24,13 @@ To install dependencies run the following command:
 ```
 npm i
 ```
+```
+no other command is needed
+```
 
 ## Usage 
 
-When a user needs to quickly create a generic logo the SVG-File-Logo-Generator can assist.
+When a user needs to create a generic logo for a new project, the Logo-Generator is designed to assist the user in that process using js, svg, node, inquirer and fs.
 
 ## License 
   
@@ -35,7 +38,7 @@ This Project is licensed under the MIT license.
 
 ## Contributing
 
-Contributions welcome
+Contributions welcome!
 
 ## Tests
 
