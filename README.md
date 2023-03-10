@@ -7,6 +7,10 @@ This project was created to assist a user in creating a generic logo for any sta
 
 ### NOTES FOR SUBMISSION
 
+#### Current Issues 
+
+I had some issues when submitting with gitignore - the file does not seem to be ignoring and I continue to troubleshoot, submitting as is for due date but will update.
+
 This project by far was the most challenging project of this course so far, knowing where to start was a challenge. In terms of acceptance crtieria I was able to generate a generic logo, I plan on resubmitting this with jest testing.
 
 ## Table of Contents
