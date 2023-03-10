@@ -36,24 +36,37 @@ no other command is needed
 
 When a user needs to create a generic logo for a new project, the Logo-Generator is designed to assist the user in that process using js, svg, node, inquirer and fs.
 
+<br>
+
 ## License 
   
 This Project is licensed under the MIT license.
+
+<br>
 
 ## Contributing
 
 Contributions welcome!
 
-## Tests
+<br>
+
+``` ## Tests
+
+#### WORKING PROGRESS
 
 To perform tests run the following command: 
 
-```
-npm test
+npm test 
 ```
 
-## Questions
+<br>
 
-For any questions on this project please email , or contact me on github[olloyd321](https://github.com/olloyd321/)] below.
+### Walkthrough
+
+Please find the video walkthrough [here](./lib/assets/videos/SVG%20Generator%20Walkthrough%20V1.mp4)
+
+### Questions
+
+For any questions on this project please email, or contact me on github  [olloyd321](https://github.com/olloyd321/) below.
 To view more of my projects visit [olloyd321](https://github.com/olloyd321/).
 
