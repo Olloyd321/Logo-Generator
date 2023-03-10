@@ -7,24 +7,11 @@ function init() {
     inquirer.prompt(generateUserPrompts).then(response => {
         console.log(response)
         let shape;
-        // switch (response.shape) {
-        //     case "circle":
-        //         shape = new Circle()
-        //         shape.setColor(response.shapeColor)
-        //         break
-        //     case "triangle":
-        //         shape = new Triangle()
-        //         shape.setColor(response.shapeColor)
-        //         break
-        //     default:
-        //         shape = new Square()
-        //         shape.setColor(response.shapeColor)
-        // }
-        if (response.shape === 'circle'){
+        if (response.shape === 'circle') {
             shape = new Circle()
             shape.setColor(response.shapeColor)
         }
-        else if(response.shape === 'triangle'){
+        else if (response.shape === 'triangle') {
             shape = new Triangle()
             shape.setColor(response.shapeColor)
         }

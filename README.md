@@ -5,6 +5,10 @@
 
 This project was created to assist a user in creating a generic logo for any starter project.
 
+### NOTES FOR SUBMISSION
+
+This project by far was the most challenging project of this course so far, knowing where to start was a challenge. In terms of acceptance crtieria I was able to generate a generic logo, I plan on resubmitting this with jest testing.
+
 ## Table of Contents
 
 - [SVG-File-Logo-Generator-](#svg-file-logo-generator-)
