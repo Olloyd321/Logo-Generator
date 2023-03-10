@@ -67,7 +67,7 @@ npm test
 
 ### Walkthrough
 
-https://user-images.githubusercontent.com/119633009/224218018-d522658d-af47-43be-97f6-a96d2b1e190e.mp4
+Please find the video walkthrough [here](https://user-images.githubusercontent.com/119633009/224218018-d522658d-af47-43be-97f6-a96d2b1e190e.mp4)
 
 
 ### Questions
